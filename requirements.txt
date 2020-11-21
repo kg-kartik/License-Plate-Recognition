@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+numpy
+gunicorn
+flask-cors
+opencv-python
