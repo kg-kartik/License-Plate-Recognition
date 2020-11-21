@@ -4,3 +4,4 @@ numpy
 gunicorn
 flask-cors
 opencv-python
+requests
