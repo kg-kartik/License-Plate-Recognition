@@ -1,7 +1,7 @@
 from ctypes import *
 import os
 import cv2
-import darknet
+from .import darknet
 import glob
 
 
